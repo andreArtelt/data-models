@@ -3,4 +3,4 @@ This repository contains **tools/code** (e.g. for *preprocessing*, *collecting d
 and **models** for several *datasets/environments*.
 
 ## Datasets
- - [German Traffic Sign Dataset](https://github.com/andreArtelt/ml-models/GerTrafficSign)
+ - [German Traffic Sign Dataset](https://github.com/andreArtelt/ml-models/tree/master/GerTrafficSign)
