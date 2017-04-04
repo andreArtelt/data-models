@@ -1,4 +1,4 @@
-# ml-models
+# data-models
 This repository contains **tools/code** (e.g. for *preprocessing*, *collecting data*, etc.)
 and **models** for several *datasets/environments*.
 
