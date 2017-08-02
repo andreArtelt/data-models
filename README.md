@@ -4,3 +4,4 @@ and **models** for several *datasets/environments*.
 
 ## Datasets
  - [German Traffic Sign Dataset](https://github.com/andreArtelt/ml-models/tree/master/GerTrafficSign)
+ - [Coursera Data Science Community Project - Catch the Fraudster](https://github.com/andreArtelt/ml-models/tree/master/CatchTheFraudster)
